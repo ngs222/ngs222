@@ -3,13 +3,6 @@
 What's up? hey\|you
 
 I am an awesome student at Lehigh, you should hire me!
-
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://ngs222.github.io/ngs222/raw/master/images/IMG-5915.jpeg">
-</p>
-
 ---
 
 ## Portfolio
