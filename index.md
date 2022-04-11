@@ -16,13 +16,13 @@ Above is a link to an extremely interesting project I was tasked with in my FIN3
 
 ## Career Objectives
 
-My current professional experiences include being a bank teller, a commodities trading intern, and an options trading intern. While I have loved all of my current experiences in trading, I am also interested in experiencing other fields of finance including fintech, hedge funds, PE, and consulting. I love the steep learning curve and competitive environment that trading offers, however I also would like to add to that the opportunity to interact with people. With the opportunity for two more Summers of internships with my current graduate school plans, I am excited to experience these different fields while making a difference at whatever firm I end up working for. 
+My current professional experiences include being a bank teller, a commodities trading intern, and an options trading intern. While I have loved all of my current experiences in trading, I am also interested in experiencing other fields of finance including fintech, hedge funds, PE, and consulting. I love the steep learning curve and competitive environment that trading offers, however I also would like to add to that the ability to interact with people on a consistent basis. With my exciting opportunity for two more Summers of internships with my current graduate school plans, I am excited to experience these different fields while making a difference at whatever firm I end up working for. 
 
 ---
 
 ## Hobbies
 
-I am originally from Richmond, VA and so my favorite sports team is the VCU men's basketball team as my father is a professor at VCU. I grew up going to games with him and they have always been who I have rooted for the hardest. I also enjoy playing piano or coding with my friends in my free time, and I am extremely into weightlifting. I enjoy travelling and my favorite place I've been to this day is Greece.
+I am originally from Richmond, VA and therefore my favorite sports team is the VCU men's basketball team. My dad is a professor at VCU and I grew up going to games with him as we always had season tickets. I also enjoy playing piano or coding with my friends, and I am extremely into weightlifting. I also really enjoy travelling and my favorite place I've been to is Greece.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
