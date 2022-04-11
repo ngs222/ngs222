@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://ngs222.github.io/ngs222/raw/master/images/IMG-5915.jpeg" width="50%">
+  <img class="img-circle" src="https://ngs222.github.io/ngs222/raw/master/images/IMG-5915.jpeg">
 </p>
 
 ---
@@ -16,7 +16,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
+_**[Natural language processing 10-Ks to identify risks](midterm/analysis_report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
